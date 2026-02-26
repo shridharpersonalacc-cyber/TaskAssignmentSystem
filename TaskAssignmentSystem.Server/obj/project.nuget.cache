@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgQx1fzwZtY=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\TaskAssignmentSystem\\TaskAssignmentSystem\\TaskAssignmentSystem.Server\\TaskAssignmentSystem.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\shri\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\10.0.3\\microsoft.aspnetcore.spaproxy.10.0.3.nupkg.sha512",
+    "C:\\Users\\shri\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

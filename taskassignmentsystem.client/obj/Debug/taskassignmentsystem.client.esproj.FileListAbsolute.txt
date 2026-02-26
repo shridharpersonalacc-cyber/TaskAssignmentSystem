@@ -1,0 +1,1 @@
+F:\Projects\TaskAssignmentSystem\TaskAssignmentSystem\taskassignmentsystem.client\obj\Debug\taskassignmentsystem.client.esproj.CoreCompileInputs.cache

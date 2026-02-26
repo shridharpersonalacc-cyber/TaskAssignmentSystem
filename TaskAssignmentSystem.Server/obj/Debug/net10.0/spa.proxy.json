@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:59271",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "F:\\Projects\\TaskAssignmentSystem\\TaskAssignmentSystem\\TaskAssignmentSystem.Server\\..\\taskassignmentsystem.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
